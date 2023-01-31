@@ -1,1 +1,4 @@
 https://www.gatevidyalay.com/bresenham-line-drawing-algorithm/
+
+Resources link mobile computing:
+https://drive.google.com/drive/u/0/folders/1M-Jt-YU6xxWv47dd4JBkLEwwbIiuzM4v?fbclid=IwAR3ZSPsyLEKaqPG2AQBEsAaju6V1J5A9IeF6SNBFxITUEJMaQBduKjAelpA
